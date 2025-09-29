@@ -20,6 +20,16 @@ A complete Docker setup for Paperless-ngx, a powerful document management system
 - At least 2GB of available RAM
 - Port 8000 available
 
+### 📱 Mobile Sync Setup
+
+**For complete Android mobile sync instructions, see: [SETUP_GUIDE.md](SETUP_GUIDE.md)**
+
+This guide covers:
+- PC setup with Docker
+- Android mobile app configuration
+- Camera upload and offline access
+- Troubleshooting common issues
+
 ### Installation
 
 1. **Clone this repository**:
